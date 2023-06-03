@@ -4,3 +4,5 @@ supply. Both BJT and MOSFET can be used. The output (Vout) needs to have a symme
 and negative directions. Please show waveforms of Vout, both from simulation and oscillograph.
 The low frequency 3dB (low-frequency cut-off) shall be 1kHz ±2%. SPICE AC simulation should be used. In the
 transfer function, the voltage gain (in dB) shows a slope of 20dB/DEC below 1000 Hz.
+
+Includes LTSPICE simulation and physical breadboard implmentation.
