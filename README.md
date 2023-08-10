@@ -1,2 +1,2 @@
 # Circuit-Design
-Digital Circuits I've designed as well as their purpose
+Circuits I've designed as well as their purpose
